@@ -12,15 +12,15 @@ Brief Introduction
 The tsinghua IC-LAB Paml_ROI_Gender_Database is free to the academic community for research purpose usage only.
 
 # Citation
-@article{Xie2018Palmprint,
-  title={Palmprint Gender Classification by Convolutional Neural Network (CNN)},
-  author={Xie, Zhihuai and Guo, Zhenhua and Qian, Chengshan},
-  journal={Iet Computer Vision},
-  volume={12},
-  number={4},
-  pages={476-483},
-  year={2018},
-}
-
+@article{Xie2018Palmprint,  
+  title={Palmprint Gender Classification by Convolutional Neural Network (CNN)},   
+  author={Xie, Zhihuai and Guo, Zhenhua and Qian, Chengshan},   
+  journal={Iet Computer Vision},   
+  volume={12},    
+  number={4},   
+  pages={476-483},   
+  year={2018},   
+}  
+  
 # Contact
 For any questions about this database please contact the authors by sending email to xzhuai520@163.com.
