@@ -23,4 +23,4 @@ The tsinghua IC-LAB Paml_ROI_Gender_Database is free to the academic community f
 }
 
 # Contact
-For any questions about this database please contact the authors by sending email to xiezh16@mails.tsinghua.edu.cn.
+For any questions about this database please contact the authors by sending email to xzhuai520@163.com.
